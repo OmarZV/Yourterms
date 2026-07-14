@@ -9,10 +9,10 @@ No competitor owns Behavioral Trading. Education is fragmented. Most apps optimi
 ## Robinhood
 ### Target Customer:
 
-First-time and self-directed retail investors
-Millennials and Gen Z investors
-Mobile-first users seeking a simple investing experience
-Active traders interested in stocks, ETFs, options, and crypto
+1. First-time and self-directed retail investors
+2. Millennials and Gen Z investors
+3. Mobile-first users seeking a simple investing experience
+4. Active traders interested in stocks, ETFs, options, and crypto
 
 ### Differentiators / Why users choose them:
 
@@ -21,7 +21,8 @@ Beautiful UX
 Zero commissions
 Simple investing
 Options trading
-->Core Value Proposition:
+
+### Core Value Proposition:
 Make investing simple, accessible, and commission-free through an intuitive mobile-first platform that lowers barriers to participation in financial markets.
 
 ->Key Features:
