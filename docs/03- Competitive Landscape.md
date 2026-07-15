@@ -44,29 +44,32 @@ Make investing simple, accessible, and commission-free through an intuitive mobi
 
 ### Revenue Model:
 
-Payment for Order Flow (PFOF)
-Robinhood Gold subscriptions
-Margin lending
-Securities lending
-Interest earned on customer cash balances
-Interchange revenue from debit cards
-->Strengths:
+1. Payment for Order Flow (PFOF)
+2. Robinhood Gold subscriptions
+3. Margin lending
+4. Securities lending
+5. Interest earned on customer cash balances
+6. Interchange revenue from debit cards
 
-Best-in-class onboarding experience
-Clean, intuitive mobile UX
-Low friction account opening
-Strong brand recognition among younger investors
-Broad product ecosystem (stocks, crypto, options, retirement)
-Low barriers to entry through commission-free investing
-->Weaknesses:
+### Strengths:
 
-Limited long-term financial planning tools
-Educational resources are relatively basic
-Heavy reliance on trading activity for revenue
-Historically faced regulatory scrutiny and trust challenges
-Limited explainability behind investment ideas and recommendations
-Less comprehensive research than traditional brokerages
-->Market Position:
+1. Best-in-class onboarding experience
+2. Clean, intuitive mobile UX
+3. Low friction account opening
+4. Strong brand recognition among younger investors
+5. Broad product ecosystem (stocks, crypto, options, retirement)
+6. Low barriers to entry through commission-free investing
+
+### Weaknesses:
+
+1. Limited long-term financial planning tools
+2. Educational resources are relatively basic
+3. Heavy reliance on trading activity for revenue
+4. Historically faced regulatory scrutiny and trust challenges
+5. Limited explainability behind investment ideas and recommendations
+6. Less comprehensive research than traditional brokerages
+
+### Market Position:
 Robinhood is a leading digital brokerage focused on democratizing investing for retail investors. It is recognized as one of the pioneers of commission-free trading and has been highly influential in reshaping the U.S. brokerage industry.
 
 ->Differentiators / Why users choose them:
