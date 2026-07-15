@@ -72,13 +72,13 @@ Make investing simple, accessible, and commission-free through an intuitive mobi
 ### Market Position:
 Robinhood is a leading digital brokerage focused on democratizing investing for retail investors. It is recognized as one of the pioneers of commission-free trading and has been highly influential in reshaping the U.S. brokerage industry.
 
-->Differentiators / Why users choose them:
+### Differentiators / Why users choose them:
 
-Extremely simple and modern user experience
-Fast account opening and onboarding
-Commission-free trading
-Fractional shares enable investing with small amounts
-Strong mobile-first design
-Easy access to options and cryptocurrency investing
+1. Extremely simple and modern user experience
+2. Fast account opening and onboarding
+3. Commission-free trading
+4. Fractional shares enable investing with small amounts
+5. Strong mobile-first design
+6. Easy access to options and cryptocurrency investing
 Low barrier for first-time investors
 Seamless investing experience with minimal complexity
