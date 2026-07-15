@@ -16,31 +16,33 @@ No competitor owns Behavioral Trading. Education is fragmented. Most apps optimi
 
 ### Differentiators / Why users choose them:
 
-Fast onboarding
-Beautiful UX
-Zero commissions
-Simple investing
-Options trading
+1. Fast onboarding
+2. Beautiful UX
+3. Zero commissions
+4. Simple investing
+5. Options trading
 
 ### Core Value Proposition:
 Make investing simple, accessible, and commission-free through an intuitive mobile-first platform that lowers barriers to participation in financial markets.
 
-->Key Features:
+### Key Features:
 
-Commission-free stock and ETF trading
-Cryptocurrency trading
-Fractional shares
-Robinhood Gold subscription
-High-yield cash sweep
-Instant deposits
-Real-time market data and watchlists
-->AI Capabilities:
+1. Commission-free stock and ETF trading
+2. Cryptocurrency trading
+3. Fractional shares
+4. Robinhood Gold subscription
+5. High-yield cash sweep
+6. Instant deposits
+7. Real-time market data and watchlists
 
-Personalized news and market notifications
-Recommendation algorithms for relevant stocks and content
-Fraud detection and risk monitoring using machine learning
-Customer support automation
-->Revenue Model:
+### AI Capabilities:
+
+1. Personalized news and market notifications
+2. Recommendation algorithms for relevant stocks and content
+3. Fraud detection and risk monitoring using machine learning
+4. Customer support automation
+
+### Revenue Model:
 
 Payment for Order Flow (PFOF)
 Robinhood Gold subscriptions
