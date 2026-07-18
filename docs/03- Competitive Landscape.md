@@ -82,3 +82,82 @@ Robinhood is a leading digital brokerage focused on democratizing investing for 
 6. Easy access to options and cryptocurrency investing
 Low barrier for first-time investors
 Seamless investing experience with minimal complexity
+
+
+## SoFi
+
+### Target Customer
+
+- Young professionals and early-career adults
+- Borrowers looking to consolidate their financial life
+- Individuals seeking an all-in-one financial platform
+- Long-term investors who value convenience and financial planning
+
+### Core Value Proposition
+
+Help members achieve financial independence through an integrated platform offering investing, banking, borrowing, credit, and financial education in one ecosystem.
+
+### Key Features
+
+- Commission-free stock and ETF investing
+- Fractional shares
+- Cryptocurrency investing (availability varies by market and over time)
+- Automated investing (robo-advisor)
+- Retirement accounts (Traditional, Roth, SEP IRA)
+- Checking and savings accounts
+- Personal, student, and home loans
+- Credit score monitoring
+- Financial planning and educational resources
+
+### AI Capabilities
+
+- Personalized financial insights and recommendations
+- Fraud detection and risk management
+- Intelligent customer support automation
+- Recommendation algorithms for relevant products and content
+
+### Revenue Model
+
+- Net interest income from lending
+- Loan origination fees
+- Interchange revenue
+- Investment management fees
+- Subscription and premium financial services
+- Cross-selling multiple financial products
+
+### Strengths
+
+- Comprehensive financial ecosystem
+- Strong cross-selling strategy
+- Excellent financial education resources
+- High customer engagement through a unified platform
+- Diversified revenue streams beyond investing
+
+### Weaknesses
+
+- Investing platform is less feature-rich than dedicated brokerages
+- Limited advanced investing and research tools
+- AI capabilities are largely behind the scenes
+- Brand is often associated more with lending than investing
+
+### Market Position
+
+SoFi positions itself as a digital financial super app that combines banking, investing, lending, and financial planning into a single member experience, competing with both traditional financial institutions and fintech platforms.
+
+### Differentiators / Why Users Choose SoFi
+
+- One-stop financial ecosystem
+- Integrated banking, investing, and lending
+- Strong financial education
+- Attractive member benefits and rewards
+- Automated investing options
+- High-yield savings and checking
+- Easy account management across products
+
+### Opportunity Areas
+
+- AI-powered behavioral investing coach
+- Explainable AI investment recommendations
+- Personalized financial wellness journeys
+- Goal-based investing with adaptive AI guidance
+- Context-aware financial coaching across banking, investing, and lending
