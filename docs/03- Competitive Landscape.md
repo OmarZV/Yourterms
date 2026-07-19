@@ -192,7 +192,8 @@ Provide investors with a comprehensive, trusted investment platform that combine
 - Banking and cash management
 - Tax planning resources
 - Fractional shares (Stock Slices)
-
+- Has experimented with anonymity features
+  
 ### AI Capabilities
 
 - Personalized investment recommendations within advisory offerings
