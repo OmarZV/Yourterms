@@ -153,3 +153,92 @@ SoFi positions itself as a digital financial super app that combines banking, in
 - Automated investing options
 - High-yield savings and checking
 - Easy account management across products
+
+
+## Charles Schwab
+
+### Target Customer
+
+- Long-term investors and wealth builders
+- Mass affluent and high-net-worth individuals
+- Retirement-focused investors
+- Self-directed investors seeking robust research tools
+- Investors who value trust, stability, and comprehensive financial services
+
+### Differentiators / Why Users Choose Schwab
+
+- Trusted brand with decades of industry experience
+- Extensive investment research and educational resources
+- Broad product ecosystem (brokerage, banking, retirement, advisory)
+- Strong customer service and nationwide branch network
+- Comprehensive retirement planning tools
+- Wide selection of investment products, including mutual funds, ETFs, bonds, and fixed income
+
+### Core Value Proposition
+
+Provide investors with a comprehensive, trusted investment platform that combines professional-grade research, extensive financial products, and personalized guidance to help clients achieve long-term financial success.
+
+### Key Features
+
+- Commission-free stock and ETF trading
+- Mutual funds
+- Fixed income and bonds
+- Retirement accounts (IRA, Roth IRA, 401(k) rollover)
+- Schwab Intelligent Portfolios
+- Portfolio analysis tools
+- Stock screening
+- Research reports
+- Financial planning tools
+- Banking and cash management
+- Tax planning resources
+- Fractional shares (Stock Slices)
+
+### AI Capabilities
+
+- Personalized investment recommendations within advisory offerings
+- Machine learning for fraud detection and cybersecurity
+- Customer support automation and virtual assistants
+- Portfolio analytics and personalized insights
+
+> **Observation:** AI primarily enhances advisory services and operational efficiency rather than acting as a customer-facing investing copilot.
+
+### Revenue Model
+
+- Asset management fees
+- Advisory fees
+- Net interest income on client cash
+- Margin lending
+- Options trading revenue
+- Mutual fund and ETF management fees
+- Banking products
+- Securities lending
+
+### Strengths
+
+- High level of customer trust
+- Comprehensive research and analytics
+- Strong retirement planning capabilities
+- Broad investment product selection
+- Integrated banking and brokerage ecosystem
+- Excellent customer service
+- Strong regulatory reputation
+- Long-term investing focus
+
+### Weaknesses
+
+- User interface is less modern than newer fintech platforms
+- Onboarding can feel more complex for beginners
+- Limited AI-first investing experience
+- Mobile experience is improving but not industry-leading
+- Educational content can be overwhelming for novice investors
+
+### Market Position
+
+Charles Schwab is one of the largest U.S. brokerage and wealth management firms, recognized as a market leader in long-term investing, retirement planning, and comprehensive financial services. It competes primarily on trust, breadth of offerings, and advisory capabilities rather than simplicity or trading-focused experiences.
+
+**Differentiate**
+
+- Deliver a modern AI-first user experience
+- Provide explainable AI recommendations
+- Offer conversational financial guidance
+- Focus on behavioral investing rather than transaction execution
