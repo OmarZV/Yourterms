@@ -1,6 +1,6 @@
 # Yourterms
 
-> **AI-powered behavioral investing platform designed to help investors make better decisions — not simply more trades.**
+**AI-powered behavioral investing platform designed to help investors make better decisions — not simply more trades.**
 
 Yourterms explores how AI and behavioral finance can improve the decision-making layer of retail investing.
 
