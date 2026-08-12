@@ -108,12 +108,12 @@ This repository documents the end-to-end product development process — from op
 
 ### Discovery & Strategy
 
-- [Product Vision](docs/01-product-vision.md)
-- [Market Opportunity](docs/02-market-opportunity.md)
-- [Competitive Landscape](docs/03-competitive-landscape.md)
-- [Behavioral Economics Research](docs/04-behavioral-economics-research.md)
-- [User Personas](docs/05-user-personas.md)
-- [Risks & Assumptions](docs/06-risks-and-assumptions.md)
+- [Product Vision](docs/01-%20Product%20Vision.md)
+- [Market Opportunity](docs/02-%20Market%20Opportunity.md)
+- [Competitive Landscape](docs/03-%20Competitive%20Landscape.md)
+- [Behavioral Economics Research](docs/04-%20Behavioral%20Economics%20Research.md)
+- [User Personas](docs/05-%20User%20Personas.md)
+- [Risks & Assumptions](docs/06-%20Risks%20and%20Assumptions.md)
 
 ### Product Requirements
 
