@@ -108,7 +108,7 @@ This repository documents the end-to-end product development process — from op
 
 ### Discovery & Strategy
 
-- [Product Vision](docs/01-%20Product%20Vision.md)
+- [Product Vision](docs/01%20-%20Product%20Vision.md)
 - [Market Opportunity](docs/02-%20Market%20Opportunity.md)
 - [Competitive Landscape](docs/03-%20Competitive%20Landscape.md)
 - [Behavioral Economics Research](docs/04-%20Behavioral%20Economics%20Research.md)
