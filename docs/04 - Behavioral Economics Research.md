@@ -478,6 +478,10 @@ and
 
 The product should optimize for **decision quality**, not short-term portfolio performance.
 
+**Reinforce not to sweat it and leverage gamification positively**
+
+The product should leverage gamification positively to ensure long term gains not short term trading
+
 ---
 
 # Key Research Insight
